@@ -10,7 +10,9 @@
 | fenci（击剑视频教练） | `D:\Claude\fenci` | 无 | 停滞 | Forge | 纳入 git；清理日志；评估 RTMPose |
 | fgame（化学学习游戏） | `D:\Claude\fgame` | 无 | 原型 | Forge | 纳入 git；明确目标用户 |
 | ElementsAmbientDemo（Unity 演示） | `D:\codex\UI\ElementsAmbientDemo` | `Feer-code/ElementsAmbientDemo` | 原型 | Forge | 提交 39 处改动；明确和产品线的关系 |
-| per | `D:\codex\per` | 无 | 待合并进本总部 | Chief | 需要创始人提供内容 |
+| per（个人超体系统） | `D:\codex\per` | 无 | 拆分中：代码并入总部，私人内容留在本地 | Chief | 读完核心文档后制定迁移步骤 |
+
+> 本表的状态和待办来自 10 月 18 日的扫描。真实运行后，以项目仓库的最新提交和创始人的最新输入为准。
 
 ## 归档（不再跟踪）
 | 路径 | 原因 |
